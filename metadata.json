@@ -1,0 +1,6 @@
+{
+  "name": "حسابات الذهب",
+  "description": "تطبيق متكامل لأصحاب محلات الذهب لحساب ديون الذهب والمال بالجرام والعملة وكشوف الحسابات وتحديث أسعار الذهب والنسخ الاحتياطي وتصدير تقارير PDF ومشاركتها عبر واتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Center Balance Pole -->
+    <path
+        android:pathData="M52,30 h4 v38 h-4 z"
+        android:fillColor="#FFE082" />
+    <!-- Top ornamental tip -->
+    <path
+        android:pathData="M54,23 a4,4 0 1,0 0.01,0 z"
+        android:fillColor="#FFD700" />
+    <!-- Base stand -->
+    <path
+        android:pathData="M42,68 h24 v4 h-24 z"
+        android:fillColor="#D4AF37" />
+    <path
+        android:pathData="M38,72 h32 v3 h-32 z"
+        android:fillColor="#B8860B" />
+
+    <!-- Scale Horizontal Beam -->
+    <path
+        android:pathData="M30,34 L78,34"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFD700"
+        android:strokeLineCap="round" />
+
+    <!-- Left Pan Strings & Pan -->
+    <path
+        android:pathData="M31,35 L24,50 M31,35 L38,50"
+        android:strokeWidth="1.5"
+        android:strokeColor="#E6C665" />
+    <path
+        android:pathData="M20,50 Q31,58 42,50 Z"
+        android:fillColor="#FFD700" />
+    <!-- Left gold nugget/coins -->
+    <path
+        android:pathData="M27,47 a4,3 0 1,0 8,0 a4,3 0 1,0 -8,0"
+        android:fillColor="#FFF8E1" />
+
+    <!-- Right Pan Strings & Pan -->
+    <path
+        android:pathData="M77,35 L70,50 M77,35 L84,50"
+        android:strokeWidth="1.5"
+        android:strokeColor="#E6C665" />
+    <path
+        android:pathData="M66,50 Q77,58 88,50 Z"
+        android:fillColor="#FFD700" />
+    <!-- Right gold bar weight -->
+    <path
+        android:pathData="M72,46 h10 v4 h-10 z"
+        android:fillColor="#FFF8E1" />
+
+    <!-- Bottom Gold Ingot Stack -->
+    <path
+        android:pathData="M44,77 L64,77 L61,84 L47,84 Z"
+        android:fillColor="#FFD700" />
+    <path
+        android:pathData="M46,78 L62,78 L60,80 L48,80 Z"
+        android:fillColor="#FFF59D" />
+
+</vector>
